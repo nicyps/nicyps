@@ -5,7 +5,8 @@
 🎨 #art & #tech walk together, and so do I! <br/>
 
 ### 🌐 Where to find me:
-[<i class="ri-linkedin-fill"></i> LinkedIn](https://www.linkedin.com/in/nicoleyps/)<br/>
-[<i class="ri-instagram-fill"></i> Instagram](https://www.instagram.com/nicoleyajima)<br/>
+[<img src="./assets/linkedin-fill.png" alt="Linkedin" width="12">](https://www.linkedin.com/in/nicoleyps/)<br/>
+[<img src="./assets/instagram-fill.png" alt="Instagram" width="12">](https://www.instagram.com/nicoleyajima)<br/>
+[<img src="./assets/mail-fill.png" alt="E-mail" width="12">](mailto:nicoleyperess@gmail.com)<br/>
 
 ## ![Nicole's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicyps&show_icons=true&theme=dracula)
