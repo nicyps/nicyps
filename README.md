@@ -6,6 +6,6 @@
 
 ### 🌐 Where to find me:
 [<i class="ri-linkedin-fill"></i> LinkedIn](https://www.linkedin.com/in/nicoleyps/)<br/>
-[<i class="ri-instagram-fill"></i> Instagram]([htt](https://www.instagram.com/nicoleyajima)<br/>
+[<i class="ri-instagram-fill"></i> Instagram](https://www.instagram.com/nicoleyajima)<br/>
 
 ## ![Nicole's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicyps&show_icons=true&theme=dracula)
